@@ -275,11 +275,11 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![show-movie-freq](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/e39fcc54-7cf8-4d71-9a43-ef2ee89ec26f)
 
-![distribution-of-movies-and-shows-on-netflix](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/637ef63d-25cc-4a97-ad66-5133e2a1320d)
+![distribution-of-movies-and-shows-on-netflix](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093934.png)
 
 ### 3. How has the distribution of content (movies and TV shows) changed over time?
 
-![distribution-of-contents-on-netflix-over-the-years](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/0fce3200-17d6-4e4a-a349-a66f8b915a52)
+![distribution-of-contents-on-netflix-over-the-years](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093920.png)
 
 ### 4. Which were the top years in terms of the number of titles released?
 
@@ -289,7 +289,7 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![decade](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/5be6c53b-601a-4792-ab2c-3320e06793d0)
 
-![rise-of-netflix-over-the-decades](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/3c26d9ea-8ed7-465d-b558-197032b31d9e)
+![rise-of-netflix-over-the-decades](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093907.png)
 
 ### 6. What are the most common genres of movies and TV shows on Netflix?
 
@@ -297,7 +297,7 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![top-5-genre-shows](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/26fc8a19-fca0-4e65-b7ef-bd7675217461)
 
-![popular-genre-on-netflix](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/8f1a54cb-7bc5-4230-b1f3-7790a220b1c9)
+![popular-genre-on-netflix](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093858.png)
 
 ### 7. Which country produces the most movies and TV shows on Netflix?
 
@@ -305,11 +305,11 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![top-10-country-show](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/5251e76e-0933-4027-8839-89b1c97b01d7)
 
-![total-movie-released-per-country](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/410194f3-06c7-431f-9e80-1f67deb2c200)
+![total-movie-released-per-country](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093843.png)
 
-![total-shows-released-per-country](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/908ef763-7358-40e9-979d-1543b2107664)
+![total-shows-released-per-country](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093832.png)
 
-![distribution-of-contents-in-top-10-countries](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/3164f2e7-b5bb-412e-8f17-d4a283bbb65d)
+![distribution-of-contents-in-top-10-countries](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093819.png)
 
 ### 8. Calculate descriptive statistics for imdb score, imdb votes and runtime of the shows.
 
@@ -329,7 +329,7 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![seasons](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/e7538a4e-073f-4033-8997-e8b5afd1dcd6)
 
-![popular-seasons-on-netflix](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/655cb459-2fbf-4b52-8a6e-709294619dbf)
+![popular-seasons-on-netflix](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093759.png)
 
 ### 11. What are the 10 top-rated movies and shows on Netflix?
 
@@ -337,15 +337,15 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![top-10-show](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/7cd4579d-5fbf-43dd-a018-deb3f660333d)
 
-![top-10-movies-in-netflix-based-on-imdb-scores](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/3e711235-38de-4ac7-bb38-114dc8fad092)
+![top-10-movies-in-netflix-based-on-imdb-scores](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093736.png)
 
-![top-10-shows-in-netflix-based-on-imdb-scores](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/eec8587b-e2cb-4088-995d-1d772bfd279e)
+![top-10-shows-in-netflix-based-on-imdb-scores](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093725.png)
 
 ### 12. What are the most popular certifications on Netflix?
 
 ![age-cert](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/c79bc763-b7a0-4f59-8a55-cb9bdb280ee9)
 
-![distribution-of-contents-on-netflix-by-age-certification](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/348a84b3-7d9b-49fd-a10b-cf45e589523f)
+![distribution-of-contents-on-netflix-by-age-certification](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093707.png)
 
 ### 13. List Top 10 Actors with number of shows/movies acted.
 
@@ -359,14 +359,14 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 ![duration-freq](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/66f5cb5c-87b6-4deb-be30-b6fc995fc835)
 
-![distribution-of-contents-on-netflix-based-on-runtime](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/e0b28e23-8ef6-47f3-a1b6-c5511d10716a)
+![distribution-of-contents-on-netflix-based-on-runtime](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093656.png)
 
 
 ### 16. Categorize the contents in 10 ratings based on the imdb_score.
 
 ![rating-freq](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/446ef250-dea1-448a-bde3-1119f839bb47)
 
-![what-do-people-think-of-the-contents-on-netflix-](https://github.com/Arpita-deb/netflix-movies-and-tv-shows/assets/139372731/c23452ab-eda9-4dd3-913b-084c5363b897)
+![what-do-people-think-of-the-contents-on-netflix-](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093641.png)
 
 ### 17. What is the percentage frequency of genre?
 
@@ -382,7 +382,7 @@ This database is now normalized upto 3rd Normal Form. It ensures that -
 
 # Dashboard:
 
-![netflix dashboard](https://miro.medium.com/v2/resize:fit:828/format:webp/1*kxqO7OTAwjyKcbmMyTfGow.png)
+![netflix dashboard](https://github.com/saranyavanapalli/Proj-Images/blob/main/Screenshot%202024-08-01%20093620.png)
 
 The tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/arpita.deb5031/viz/netflixdataanalysis_17012304017640/Dashboard2).
 
